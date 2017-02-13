@@ -1,0 +1,109 @@
+body {
+  background: rgb(244, 248, 249);
+  font-family: Helvetica;
+}
+
+p {
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(225, 232, 237);
+  width: 630px;
+  border-radius: 5px;
+}
+
+#jack {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  position: relative;
+  left: 134px;
+}
+
+#arroba {
+  color: rgb(104, 109, 129);
+  font-size: 25px;
+  position: relative;
+  left: 110px;
+  top: 5px;
+  font-weight: bold;
+}
+
+#frase {
+  color: rgb(0, 0, 0);
+  position: relative;
+  top: 150px;
+  left: 20px;
+  font-size: 27px;
+}
+
+#hora {
+  color: rgb(101, 116, 127);
+  position: relative;
+  top: 100px;
+  left: 20px;
+  font-size: 22px;
+}
+
+#nueve {
+  color: rgb(105, 120, 130);
+  position: relative;
+  top: 145px;
+  left: 135px;
+  font-size: 21px;
+}
+
+#siete {
+  color: rgb(105, 120, 130);
+  position: relative;
+  top: 120px;
+  left: 250px;
+  font-size: 21px;
+}
+
+#follow {
+  color: rgb(85, 172, 238);
+  font-size: 26px;
+  border: 2px solid rgb(85, 172, 238);
+  border-radius: 5px;
+  width: 130px;
+  padding: 8px;
+  position: relative;
+  left: 450px;
+  bottom: 130px;
+}
+
+#twitterlogo {
+  float: left;
+  padding: 0 3px 0 5px;
+}
+
+#imageprofile {
+  position: relative;
+  bottom: 185px;
+  left: 20px
+}
+
+#chico {
+  position: relative;
+  bottom: 225px;
+  left: 40px;
+}
+
+#reply {
+  position: relative;
+  right: 70px;
+}
+
+#refresh {
+  position: relative;
+  right: 40px;
+}
+
+#corazon {
+  position: relative;
+  left: 40px;
+}
+
+#validated {
+  position: relative;
+  right: 0px;
+  bottom: 230px;
+}
