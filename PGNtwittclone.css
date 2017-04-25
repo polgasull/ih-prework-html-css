@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 
-p {
+.box {
   background: rgb(255, 255, 255);
   border: 3px solid rgb(225, 232, 237);
   width: 630px;
